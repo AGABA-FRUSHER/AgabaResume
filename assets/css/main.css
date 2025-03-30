@@ -2591,7 +2591,7 @@ body > article {
 .featureda img {
   width: 100%;
   height: 302px;
-  max-width: 385px; /* Adjust to your preferred size */
+  max-width: 385px; /* Adjust to your the desired size */
   margin-bottom: 10px; /* Space between the image and the text */
 }
 .featuredb img {
