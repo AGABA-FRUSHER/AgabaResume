@@ -2646,3 +2646,10 @@ body > article {
 .roles-button:hover {
   background-color: #0c6587;
 }
+.key-roles {
+  margin-bottom: 0.5px;
+  padding-bottom: 0.5px;
+}
+.key-button {
+  margin-bottom: 10px;
+}
