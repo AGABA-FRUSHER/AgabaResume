@@ -2640,3 +2640,9 @@ body > article {
 .project-button:hover {
   background-color: #43b3e0;
 }
+.roles {
+  margin-bottom: 5px;
+}
+.roles-button:hover {
+  background-color: #0c6587;
+}
